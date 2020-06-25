@@ -23,7 +23,7 @@ python run.py
 
 * **18520286 – Trần Xuân Hưng** 
 * **18520507 – Nguyễn Phước Bình** 
-* **18521427 – Nguyễn Hoàng Thiên ** 
+* **18521427 – Nguyễn Hoàng Thiên** 
 		
 		
 
